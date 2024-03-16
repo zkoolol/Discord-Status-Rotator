@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "delay": 5,
+    "statuses": [
+        {
+            "status": "Example 1",
+            "emoji_id": "5987395987989",
+            "emoji_name": ":test:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "Example 2",
+            "emoji_name": "⭐",
+            "nitro_emoji": false
+        }
+    ]
+}
